@@ -7,6 +7,9 @@ python findbc.py path [OPTIONS]
 ## 查找路径
 第一个参数必须为路径
 
+## -h
+显示帮助信息
+
 ## -k
 必选参数，指定关键字，例如在当前目录查找内容中包含字符串scorcsoft的文件:
 ```
